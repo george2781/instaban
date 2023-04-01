@@ -2,7 +2,7 @@
 # Instaban
 I was disappointed with the insta ban server, so I decided to make something that can make a REAL instaban
 ## Demo server
-https://discord.gg/KRVDgsfq6A
+Soon:tm:
 ## Installation
 ### Install dependancies
 Install python and then run
