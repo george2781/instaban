@@ -1,4 +1,3 @@
-# THIS PROJECT IS CURRENTLY UNTESTED, EXPECT ISSUES LMAO
 # Instaban
 I was disappointed with the insta ban server, so I decided to make something that can make a REAL instaban
 ## Demo server
