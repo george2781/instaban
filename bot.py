@@ -1,7 +1,7 @@
 import discord
 from discord import app_commands
 intents = discord.Intents.default()
-intents.invites = True
+intents.members = True
 class discordClient(discord.Client):
     def __init__(self, *, intents: discord.Intents):
         super().__init__(intents=intents)
